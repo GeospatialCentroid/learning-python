@@ -1,5 +1,5 @@
-# learning-python-ecology
-learning-python-ecology
+# learning-python
+
 
 # Conda Environment Setup: Jupyter, Pandas, & Plotnine
 
