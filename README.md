@@ -6,19 +6,17 @@
 This guide walks through the complete setup for a clean Conda environment configured.
 Conda is a package manager that allows you to install libraries that extend the core functionality available with python.
 
-
+Note: Before you begin, please download and unzip this GitHub Repository, Click the Green **< > Code button**, and choose **Download Zip**
 
 ---
 
 ## 1. Install Conda
 
-To use Conda you'll first need to install [Conda Forge](https://conda-forge.org/download/). Choose the latest  version for your operating system from the web page, download and install.
-
-**For Windows Users: Open the Miniforge Prompt before proceeding.**
+To use Conda you'll first need to install [Conda Forge](https://conda-forge.org/download/). Choose the latest version for your operating system from the web page, download and install.
 
 ## 2. Create and Activate the Environment
 
-Open your terminal or Anaconda Prompt and execute the following commands to set up the environment with Python 3.10:
+Open Miniforge Prompt (Windows) or Terminal (Mac) and execute the following commands to set up the environment with Python:
 
 ```bash
 # Create the environment
